@@ -1,4 +1,4 @@
-## Ghibli Video Generator with [Eachlabs AI](https://docs.eachlabs.ai/flow/getting-started)
+## Image to Video Converter with [Eachlabs AI](https://docs.eachlabs.ai/flow/getting-started)
 
 ### Getting Started
 - Clone the GitHub repository
