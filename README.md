@@ -12,7 +12,7 @@
   EACH_WORKFLOW_ID=
   ```
 - Set up a Firebase app and set up the [Storage feature](https://firebase.google.com/docs/storage/web/start)
-- Paste your Firebase app config into the `firebase.ts` file.
+- Paste your Firebase app config into the [`firebase.ts` file](https://github.com/dha-stix/ai-image-to-video/blob/main/src/app/firebase.ts).
   ```ts
   const firebaseConfig = {
   /** -- your Firebase app config*/
